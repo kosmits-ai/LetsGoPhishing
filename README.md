@@ -40,4 +40,8 @@ This project uses **Large Language Models (LLMs)** to detect phishing emails. It
 Clone the repo:  
 ```bash
 git clone https://github.com/kosmits-ai/LetsGoPhishing.git
-
+cd LetsGoPhishing
+python-m venv myenv
+myenv\Scirts\activate
+pip install -r requirements.txt
+python -m src.cli --provider [PROVIDER_NAME] --model [MODEL_NAME] EML_PATH
