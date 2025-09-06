@@ -1,0 +1,206 @@
+[
+  {
+    "label": "benign",
+    "eml": "From: Alice Johnson <alice.johnson@contoso.com>\nTo: Bob Smith <bob.smith@contoso.com>\nCc: Carol Jones <carol.jones@contoso.com>\nSubject: Meeting Invitation: Project Kickoff\nDate: Tue, 04 Oct 2022 12:16:23 +1200\nMessage-ID: <1ca3e6.26@contoso.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHi Bob,\nI'd like to schedule a project kickoff meeting for next week. How about Wednesday at 10 AM? Please let me know if that works for you.\nAgenda:\n- Project objectives\n- Roles and responsibilities\n- Timeline and milestones\nThanks,\nAlice"
+  },
+  {
+    "label": "benign",
+    "eml": "From: David Lee <david.lee@contoso.com>\nTo: team@contoso.com\nSubject: Project Update - Q3 Progress\nDate: Sun, 12 Dec 2021 15:03:43 -1100\nMessage-ID: <a1830f.27@contoso.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHello Team,\nHere's the project update for Q3:\n- We completed the initial development phase on schedule.\n- Testing phase is starting next week.\n- We have a meeting on Friday to review the requirements for phase 2.\nKeep up the great work!\nBest,\nDavid"
+  },
+  {
+    "label": "benign",
+    "eml": "From: HR Department <hr@contoso.com>\nTo: all-staff@contoso.com\nSubject: Welcome Our New Team Member\nDate: Wed, 31 May 2023 09:00:53 -0400\nMessage-ID: <21e379.28@contoso.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nDear Team,\nPlease join us in welcoming our new colleague, Emily Davis, to the team. Emily will be joining the Marketing department as a Social Media Specialist starting Monday.\nWe're excited to have her on board. Feel free to introduce yourself and say hello!\nBest Regards,\nHR Team"
+  },
+  {
+    "label": "benign",
+    "eml": "From: Charlie <charlie@example.com>\nTo: Jordan <jordan@example.com>\nSubject: Checking In\nDate: Sun, 17 Oct 2021 12:01:14 +0600\nMessage-ID: <a11d75.29@example.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHi Jordan,\nIt's been a while since we last spoke. How have you been? Things are going well here. I might be in your area next month, would love to catch up over coffee if you're free.\nLet me know what you think.\nCheers,\nCharlie"
+  },
+  {
+    "label": "benign",
+    "eml": "From: Mom <mom@example.com>\nTo: Son <son@example.com>\nSubject: Just Saying Hi\nDate: Fri, 22 Oct 2021 14:35:02 +0800\nMessage-ID: <ff9b3d.30@example.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHi Son,\nI hope you're doing well! Just wanted to say hello and see how everything is going with you. We miss you here at home. Dad and I are planning a trip to see you next month.\nCall us when you get a chance. Love you!\nLove,\nMom"
+  },
+  {
+    "label": "benign",
+    "eml": "From: \"Amazon.com\" <shipment-tracking@amazon.com>\nTo: customer@example.com\nSubject: Your Amazon Order #123-4567890-1234567 has Shipped\nDate: Thu, 10 Oct 2024 02:38:31 +0500\nMessage-ID: <868611.33@amazon.com>\nMIME-Version: 1.0\nContent-Type: text/html; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\n<html>\n<body>\n<p>Hello,</p>\n<p>Your Amazon order #123-4567890-1234567 has shipped. You can track your package using the link below:</p>\n<p><a href=\"https://www.amazon.com/track?order=1234567\">Track your package</a></p>\n<p>Thank you for shopping with us!</p>\n<p>Amazon Team</p>\n</body>\n</html>"
+  },
+  {
+    "label": "benign",
+    "eml": "From: Uber <uber.us@uber.com>\nTo: user@example.com\nSubject: Your Uber Ride Receipt from Aug 26, 2025\nDate: Sat, 21 Dec 2024 05:53:27 +0100\nMessage-ID: <cc7e39.34@uber.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHi,\nThank you for riding with Uber. Here is your receipt for the trip on Aug 26, 2025:\nPickup: 123 Main St\nDrop-off: 456 Elm St\nDistance: 5.2 miles\nTotal: $18.45\nWe hope to see you again soon.\n- Uber"
+  },
+  {
+    "label": "benign",
+    "eml": "From: Bank of America Online <onlinebanking@bankofamerica.com>\nTo: customer@example.com\nSubject: Your Bank of America Statement is Ready\nDate: Sun, 29 Jan 2023 16:24:41 -0500\nMessage-ID: <46d36b.35@bankofamerica.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nDear Customer,\nYour latest Bank of America statement is now available online. Please log in to your online banking account to view your statement.\nThank you for choosing Bank of America.\nSincerely,\nBank of America Online Banking"
+  },
+  {
+    "label": "benign",
+    "eml": "From: Facebook <notification@facebookmail.com>\nTo: user@example.com\nSubject: You have 5 new notifications, [User Name]!\nDate: Thu, 02 May 2024 01:02:02 +0300\nMessage-ID: <2e8bad.36@facebookmail.com>\nMIME-Version: 1.0\nContent-Type: text/html; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\n<html>\n<body>\n<p>Hello User,</p>\n<p>You have 5 new notifications on Facebook.</p>\n<p><a href=\"https://www.facebook.com/notifications\">View Notifications</a></p>\n<p>Thanks,<br>Facebook</p>\n</body>\n</html>"
+  },
+  {
+    "label": "benign",
+    "eml": "From: PayPal <service@paypal.com>\nTo: user@example.com\nSubject: Receipt for Your Payment to ABC Store\nDate: Tue, 26 May 2020 09:15:05 -0900\nMessage-ID: <4e4137.37@paypal.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHello,\nYou sent a payment of $45.00 USD to ABC Store.\nTransaction ID: 9ABCDE12345\nIf you haven't authorized this payment, please contact us.\nThank you for using PayPal.\n- PayPal Team"
+  },
+  {
+    "label": "benign",
+    "eml": "From: GitHub <noreply@github.com>\nTo: user@example.com\nSubject: [GitHub] New sign-in from Chrome on Windows\nDate: Sat, 03 May 2025 09:46:04 -0700\nMessage-ID: <d82559.38@github.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHi User,\nA new sign-in to your GitHub account was detected from Chrome on Windows.\nLocation: New York, USA\nIP: 192.0.2.123\nIf this was you, you can disregard this email. If not, please secure your account.\nThanks,\nThe GitHub Team"
+  },
+  {
+    "label": "benign",
+    "eml": "From: GitHub <support@github.com>\nTo: user@example.com\nSubject: Welcome to GitHub!\nDate: Sun, 26 Jan 2025 23:28:51 -1000\nMessage-ID: <c50038.39@github.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHello User,\nThank you for joining GitHub! We're excited to have you on board. Here are a few things to help you get started:\n- Create a new repository\n- Explore open source projects\n- Connect with the community\nHappy coding!\n- The GitHub Team"
+  },
+  {
+    "label": "benign",
+    "eml": "From: IT Support <it-support@company.com>\nTo: employee@example.com\nSubject: Password Change Confirmation\nDate: Fri, 31 Mar 2023 15:35:46 +0700\nMessage-ID: <efa43c.40@company.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHello,\nThis is a confirmation that the password for your account was changed successfully today at 3:45 PM.\nIf you did not make this change, please contact IT Support immediately.\nRegards,\nIT Support Team"
+  },
+  {
+    "label": "benign",
+    "eml": "From: Emma Brown <emma.brown@contoso.com>\nTo: liam.davis@contoso.com\nSubject: Re: Help with Presentation\nDate: Mon, 01 Jul 2024 21:37:30 -0400\nMessage-ID: <05e0d7.41@contoso.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHi Liam,\nThank you for helping me with the presentation last week. It went really well!\nI couldn't have done it without your assistance.\nThanks again,\nEmma\n\nOn Mon, 18 Aug 2025 09:15:30 +0000, Liam Davis <liam.davis@contoso.com> wrote:\n> Hi Emma,\n> Let me know if you need any help with the slides for Friday's presentation.\n> Cheers,\n> Liam"
+  },
+  {
+    "label": "benign",
+    "eml": "From: John Smith <john.smith@contoso.com>\nTo: sender@example.com\nSubject: Re: Project Plan (Out of Office Auto Reply)\nDate: Mon, 21 Dec 2020 21:35:48 +0900\nMessage-ID: <889d4f.42@contoso.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHello,\nI am currently out of the office on vacation from Aug 20 to Aug 30. I will have limited access to email during this time.\nFor immediate assistance, please contact my colleague at colleague@contoso.com.\nBest regards,\nJohn"
+  },
+  {
+    "label": "benign",
+    "eml": "From: Airline Tickets <confirmation@flyhigh.com>\nTo: John Doe <john.doe@example.com>\nSubject: Your Flight Booking Confirmation - Reference XYZ123\nDate: Sat, 14 Jun 2025 09:34:33 -0200\nMessage-ID: <391d5d.43@flyhigh.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nDear John Doe,\nThank you for booking with FlyHigh Airlines. Your flight booking is confirmed.\nBooking Reference: XYZ123\nFlight: FH 123, City A to City B\nDeparture: Sep 15, 2025, 10:00 AM\nWe wish you a pleasant flight!\nFlyHigh Airlines"
+  },
+  {
+    "label": "benign",
+    "eml": "From: Tech Support <support@myservice.com>\nTo: user@example.com\nSubject: Re: [Ticket #12345] Issue Resolved\nDate: Thu, 30 Jun 2022 20:57:20 +0100\nMessage-ID: <50fa0d.44@myservice.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHello,\nWe have resolved your issue regarding the mobile app login. You should now be able to log in without any problems.\nPlease let us know if you encounter any further issues.\nThank you for your patience.\nBest,\nTech Support Team"
+  },
+  {
+    "label": "benign",
+    "eml": "From: FedEx <trackingupdates@fedex.com>\nTo: customer@example.com\nSubject: Your package has been delivered\nDate: Fri, 10 Nov 2023 16:05:30 -1200\nMessage-ID: <86daed.45@fedex.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nDear Customer,\nYour package with tracking number 123456789012 has been delivered to your doorstep on Aug 25, 2025 at 3:30 PM.\nThank you for choosing FedEx.\nFedEx Tracking Team"
+  },
+  {
+    "label": "benign",
+    "eml": "From: Company Newsletter <newsletter@contoso.com>\nTo: all-employees@contoso.com\nSubject: Monthly Update - August 2025\nDate: Thu, 04 Apr 2024 06:24:21 +1200\nMessage-ID: <5b7842.46@contoso.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHello Team,\nHere are the highlights for August 2025:\n- We signed 3 new clients.\n- The new office renovation is complete.\n- Company picnic scheduled for Sep 10.\nRegards,\nThe Management"
+  },
+  {
+    "label": "benign",
+    "eml": "From: City Clinic <appointments@cityclinic.com>\nTo: John Doe <john.doe@example.com>\nSubject: Reminder: Appointment on Sep 5, 2025\nDate: Fri, 26 Apr 2024 07:29:21 -0900\nMessage-ID: <98cdc1.47@cityclinic.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nDear John Doe,\nThis is a friendly reminder of your appointment on Sep 5, 2025 at 2:00 PM with Dr. Smith at City Clinic.\nIf you need to reschedule, please call us at (123) 456-7890.\nThank you,\nCity Clinic"
+  },
+  {
+    "label": "benign",
+    "eml": "From: Streaming Service <no-reply@streamingservice.com>\nTo: user@example.com\nSubject: Your Subscription has been Renewed\nDate: Sun, 08 Jun 2025 03:31:38 +0400\nMessage-ID: <65d7ad.48@streamingservice.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHello,\nThis email confirms that your monthly subscription for StreamingService has been renewed on Aug 26, 2025. No action is required on your part.\nThank you for being a loyal customer.\nStreamingService Team"
+  },
+  {
+    "label": "benign",
+    "eml": "From: Customer Support <support@onlineshop.com>\nTo: user@example.com\nSubject: Re: Order Inquiry - Case #78910\nDate: Mon, 19 Apr 2021 20:31:19 -0100\nMessage-ID: <52b68e.49@onlineshop.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nDear Customer,\nThank you for reaching out. We have updated your order status as per your request. It should now reflect the correct delivery date.\nPlease let us know if you need anything else.\nSincerely,\nOnlineShop Customer Support"
+  },
+  {
+    "label": "benign",
+    "eml": "From: OnlineShop <noreply@onlineshop.com>\nTo: user@example.com\nSubject: Payment Confirmation - Order #56789\nDate: Fri, 02 Aug 2024 19:00:54 +1200\nMessage-ID: <004af5.50@onlineshop.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHello,\nWe have received your payment for Order #56789. Your order is now being processed and we will notify you once it has been shipped.\nThank you for shopping with us!\nOnlineShop Team"
+  },
+  {
+    "label": "benign",
+    "eml": "From: TechNews Weekly <newsletter@technews.com>\nTo: subscriber@example.com\nSubject: TechNews Weekly - Top Stories\nDate: Sun, 14 May 2023 04:27:09 +0800\nMessage-ID: <eaeea1.31@technews.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\n\nTechNews Weekly - Top Stories:\n- AI breakthrough in medical research.\n- New smartphone release sets sales record.\n- Cybersecurity tips for remote workers.\nVisit our website for the full articles.\n\n------boundary_3340\nContent-Type: text/html; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\n<html>\n<body>\n<h2>TechNews Weekly - Top Stories</h2>\n<ul>\n<li>AI breakthrough in medical research.</li>\n<li>New smartphone release sets sales record.</li>\n<li>Cybersecurity tips for remote workers.</li>\n</ul>\n<p>Read more on our <a href=\\\"http://technews.com\\\">website</a>.</p>\n</body>\n</html>\n\n------boundary_3340--"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: \"Google Support\" <no-reply@account-google.com>\nTo: user@example.com\nSubject: Security Alert: Verify Your Google Account\nDate: Mon, 09 Jun 2025 15:07:05 -0900\nMessage-ID: <0cce35.01@account-google.com>\nMIME-Version: 1.0\nContent-Type: text/html; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\n<html>\n<body>\n<p>Dear User,</p>\n<p>We detected suspicious sign-in activity on your Google account. Please <a href=\"http://accounts-google.com.verify-login.com\">verify your account</a> immediately to secure your account.</p>\n<p>Thank you,<br>Google Account Team</p>\n</body>\n</html>"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Microsoft account team <no-reply@microsoft-account.com>\nTo: user@example.com\nSubject: Unusual Sign-in Activity on Your Microsoft Account\nDate: Wed, 04 May 2022 11:40:21 -0500\nMessage-ID: <7248ad.02@microsoft-account.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nDear User,\nWe detected unusual sign-in activity on your Microsoft account. Please login at https://account.microsoft.com-securityalert.com to verify your account and review your recent activity.\nIf this was not you, your account may be at risk.\nMicrosoft Account Team"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Bank of America <alert@bankofamerica.com.secure-update.com>\nTo: Customer <customer@example.com>\nSubject: Important: Your Bank of America Account Access Restricted\nDate: Tue, 09 Mar 2021 12:42:06 +1100\nMessage-ID: <347a3f.03@bankofamerica.com.secure-update.com>\nMIME-Version: 1.0\nContent-Type: text/html; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\n<html>\n<body>\n<p>Dear Customer,</p>\n<p>Your Bank of America account has been temporarily <b>restricted</b> due to suspicious activity. To restore full access, please click the link below and verify your account information:</p>\n<p><a href=\"http://secure-bankofamerica.com/login\">Restore Account Access</a></p>\n<p>If you do not complete verification within 24 hours, your account may be permanently suspended.</p>\n<p>Sincerely,<br>Bank of America Customer Service</p>\n</body>\n</html>"
+  },
+  {
+    "label": "benign",
+    "eml": "From: TechNews Weekly <newsletter@technews.com>\nTo: subscriber@example.com\nSubject: TechNews Weekly - Top Stories\nDate: Sun, 14 May 2023 04:27:09 +0800\nMessage-ID: <eaeea1.31@technews.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\n\nTechNews Weekly - Top Stories:\n- AI breakthrough in medical research.\n- New smartphone release sets sales record.\n- Cybersecurity tips for remote workers.\nVisit our website for the full articles."
+  },
+  {
+    "label": "benign",
+    "eml": "From: Fashionista <promotions@fashionista.com>\nTo: customer@example.com\nSubject: Exclusive Offer: 50% Off Summer Collection!\nDate: Sat, 02 Apr 2022 22:53:49 -0800\nMessage-ID: <7e45f5.32@fashionista.com>\nMIME-Version: 1.0\nContent-Type: text/html; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\n<html>\n<body>\n<p>Dear Customer,</p>\n<p>Hot Summer Sale is here! Get <b>50% off</b> our entire summer collection. Use code SUMMER50 at checkout.</p>\n<p><a href=\"http://fashionista.com/sale\">Shop Now</a> - Offer ends Sunday!</p>\n<p>Stay stylish,<br>Fashionista Team</p>\n</body>\n</html>"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: PayPal <service@paypal.com>\nTo: user@example.com\nSubject: Urgent: Verify Suspicious Activity on Your PayPal Account\nDate: Wed, 21 Aug 2024 09:28:35 -1000\nMessage-ID: <d80623.04@paypal.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\n\nDear Customer,\nWe noticed an unauthorized transaction on your PayPal account. If you did not make this transaction, please verify your account immediately using the secure link below.\nLogin to PayPal: https://paypal.com.secure-authenticate.com\nThank you,\nPayPal Security Team"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Amazon <account-update@amazon.com>\nTo: customer@example.com\nSubject: Your Amazon Order Placed On Hold - Action Required\nDate: Sun, 18 Oct 2020 02:25:25 -0600\nMessage-ID: <771f54.05@amazon.com>\nMIME-Version: 1.0\nContent-Type: text/html; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\n<html>\n<body>\n<p>Hello,</p>\n<p>Your recent Amazon order has been placed on hold because we could not verify your billing information. Please <a href=\"http://amazon.com.verify-order.com\">confirm your payment details</a> within 48 hours to avoid cancellation.</p>\n<p>Thank you for shopping with Amazon.</p>\n<p>Sincerely,<br>Amazon Customer Service</p>\n</body>\n</html>"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Apple Support <support@appleid.apple.com>\nTo: Apple User <user@example.com>\nSubject: Your Apple ID Password Reset Request\nDate: Fri, 19 Apr 2024 02:01:17 +0700\nMessage-ID: <0d961f.06@appleid.apple.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nDear Apple User,\nWe received a request to reset your Apple ID password. If you did not request a password reset, please cancel this request by logging into your account below:\nhttps://appleid.apple.com.verify-info.com\nIf you did request this change, you can ignore this email.\nApple Support"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Facebook <security@facebookmail.com>\nTo: user@example.com\nSubject: Facebook Account Warning: Unrecognized Login Attempt\nDate: Wed, 09 Oct 2024 17:27:54 -0600\nMessage-ID: <d6cb4d.07@facebookmail.com>\nMIME-Version: 1.0\nContent-Type: text/html; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\n<html>\n<body>\n<p>Hello,</p>\n<p>We noticed an unrecognized login attempt on your Facebook account. If this was not you, please <a href=\"http://facebook.com.verify-login.com\">secure your account</a> now by changing your password.</p>\n<p>If this was you, you can safely ignore this email.</p>\n<p>Thank you,<br>Facebook Security</p>\n</body>\n</html>"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Dropbox <no-reply@dropboxsharing.com>\nTo: user@example.com\nSubject: You Have a New Document via Dropbox\nDate: Mon, 15 Nov 2021 21:14:38 +0200\nMessage-ID: <8e6f03.08@dropboxsharing.com>\nMIME-Version: 1.0\nContent-Type: text/html; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\n<html>\n<body>\n<p>Hello,</p>\n<p>You have received a document via Dropbox from a colleague. Click below to view the document:</p>\n<p><a href=\"http://dropbox.com.shared-document.com\">View Document</a></p>\n<p>If you cannot access the document, it may have been removed or expired.</p>\n<p>Best regards,<br>Dropbox Team</p>\n</body>\n</html>"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: ACME Corp Billing <billing@acme-corp.com>\nTo: Accounts Payable <ap@targetcompany.com>\nSubject: Invoice #984562 - Payment Required\nDate: Tue, 21 Jan 2020 04:34:57 +1200\nMessage-ID: <51bedd.09@acme-corp.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHello,\nPlease find the invoice #984562 for your recent order attached in the following link: http://acme-corp.com/invoices/984562.pdf\nKindly arrange payment by the due date to avoid any late fees. Let us know if you have any questions.\nThank you,\nACME Corp Billing Department"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: XYZ Supplies <invoices@xyz-supplies.com>\nTo: Accounts Payable <accounts@victimco.com>\nSubject: Invoice 3821 - Overdue Notice\nDate: Sun, 06 Aug 2023 00:24:49 -0200\nMessage-ID: <8e4527.10@xyz-supplies.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\n\nDear Accounts Payable,\nPlease find attached invoice #3821 which is overdue. Please process the payment as soon as possible.\nRegards,\nXYZ Supplies Billing"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: John Doe <john.doe@company-co.com>\nTo: Jane Smith <jane.smith@company.com>\nSubject: Urgent: Wire Transfer Needed Today\nDate: Fri, 11 Nov 2022 18:18:31 -0900\nMessage-ID: <2f7c62.11@company-co.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHi Jane,\nI need you to wire $85,000 to a new vendor today. It's urgent and must be done by EOD. Reply when it's sent, and I'll provide the account details.\nI'm in a meeting and can't call, so just handle this ASAP.\nThank you,\nJohn"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Michael Johnson <michael.johnson.ceo@outlook.com>\nTo: Emily <emily@company.com>\nSubject: Quick Request\nDate: Sun, 26 Mar 2023 09:25:59 -0900\nMessage-ID: <b7cc25.12@outlook.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHi Emily,\nAre you available? I need you to buy 10 Google Play gift cards for a client incentive. I'll reimburse you by end of day. Please let me know as soon as you've got them.\nThanks,\nMichael"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Lisa Brown <lisa.brown@trustedvendor.com>\nTo: Accounts Payable <accounts.payable@company.com>\nSubject: Updated Payment Information - Urgent\nDate: Sun, 04 Dec 2022 15:11:51 +0700\nMessage-ID: <876f47.13@trustedvendor.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHello,\nI hope you are well. Our banking details have changed. Please update the account information on file before processing any future payments. The new details are attached in the document or can be provided upon request.\nThank you for your prompt attention to this matter.\nRegards,\nLisa Brown\nAccount Manager, TrustedVendor Inc."
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Jane Doe <jane.doe@applicant.com>\nTo: HR <hr@company.com>\nSubject: Job Application - Resume Attached\nDate: Thu, 14 May 2020 23:53:58 +1100\nMessage-ID: <eb39bc.14@applicant.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\n\nDear Hiring Manager,\nPlease find my resume attached for the Software Engineer position. I have 5 years of experience and am very interested in the role.\nThank you for your time and consideration.\nSincerely,\nJane Doe"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Office Scanner <scanner@company.com>\nTo: employee@company.com\nSubject: Scanned Document Attached\nDate: Wed, 22 Mar 2023 01:34:09 -1000\nMessage-ID: <961b76.15@company.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\n\nA new document scan has been processed. Please find the scanned document attached.\nDocument: Scan_2025_08_26.pdf"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: eFax Service <no-reply@efax-service.com>\nTo: user@example.com\nSubject: New eFax Message Received\nDate: Tue, 04 Aug 2020 02:24:29 -1100\nMessage-ID: <74af15.16@efax-service.com>\nMIME-Version: 1.0\nContent-Type: text/html; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\n<html>\n<body>\n<p>You have received a new fax message.</p>\n<p><a href=\"http://efaxservice.com/receive-fax?id=12345\">Click here to view your fax</a></p>\n<p>Thank you for using our service.</p>\n</body>\n</html>"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: National Lottery <claims@nationallottery.com>\nTo: Winner <winner@example.com>\nSubject: Congratulations! You Have Won $500,000\nDate: Sat, 18 Jun 2022 02:19:48 -1000\nMessage-ID: <77305d.17@nationallottery.com>\nMIME-Version: 1.0\nContent-Type: text/html; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\n<html>\n<body>\n<p><b>Congratulations!</b></p>\n<p>Your email has won the grand prize of $500,000 in the National Lottery draw. To claim your prize, please reply with your full name, address, and phone number.</p>\n<p>Act now to claim your fortune!</p>\n<p>Sincerely,<br>National Lottery Commission</p>\n</body>\n</html>"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Helping Hands Charity <donations@helpinghands.org>\nTo: Friend <friend@example.com>\nSubject: Urgent: Help Save Lives Today\nDate: Mon, 09 Nov 2020 19:12:45 +0000\nMessage-ID: <8e528e.18@helpinghands.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nDear Friend,\nWe are reaching out for your urgent support. A recent disaster has left thousands in need of food and shelter. Please consider making a donation to Helping Hands Charity through our secure link: http://helpinghands.org/donate\nEven a small contribution can make a big difference in saving lives.\nThank you for your kindness,\nHelping Hands Charity"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Prince Joseph <prince_joseph@royalfund-ng.com>\nTo: Sir/Madam\nSubject: Urgent Business Proposal\nDate: Thu, 09 Nov 2023 16:43:21 +0800\nMessage-ID: <bacb48.19@royalfund-ng.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nDear Friend,\nI am Prince Joseph from Nigeria. I have an urgent business proposal for you. I have $25 million USD that I need to transfer out of my country. I am willing to offer you 30% for your assistance.\nPlease reply immediately for details. This is confidential.\nBest regards,\nPrince Joseph"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Microsoft Support <support@microsoft.com>\nTo: user@example.com\nSubject: Critical Alert: Virus Detected on Your Computer\nDate: Thu, 20 May 2021 08:22:06 -0100\nMessage-ID: <b5e60a.20@microsoft.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nDear User,\nYour computer has been flagged for viruses and malware. Immediate action is required to prevent data loss. Contact Microsoft Support at 1-800-XXX-XXXX or visit http://microsoft.com.safe-server-check.com to secure your system now.\nIf you ignore this message, you risk losing your data.\nMicrosoft Support Team"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: IT Support <it-support@company.com>\nTo: Employee <employee@company.com>\nSubject: Your Mailbox Storage is Almost Full\nDate: Tue, 12 Oct 2021 21:58:34 +0900\nMessage-ID: <88b151.21@company.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nDear Employee,\nYour email mailbox is 95% full. Once it reaches capacity, you will not be able to receive new emails. Please visit the IT portal to increase your mailbox storage: http://company.com.it-support-portal.com/upgrade\nIf you have any questions, contact IT Support.\nThank you."
+  },
+  {
+    "label": "phishing",
+    "eml": "From: DocuSign <dse@docusign.net>\nTo: user@example.com\nSubject: Document Signature Request\nDate: Sun, 06 Jul 2025 09:01:14 -1000\nMessage-ID: <579f7c.22@docusign.net>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHello,\nYou have a document awaiting your signature via DocuSign. Please visit the link below to review and sign the document:\nhttp://docusign.com.secure-files.com/sign/123456\nThank you,\nDocuSign Electronic Signature Service"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Netflix <support@netflix.com>\nTo: user@example.com\nSubject: Your Netflix Account Has Been Suspended\nDate: Wed, 17 Jul 2024 12:21:20 +1100\nMessage-ID: <7d57db.23@netflix.com>\nMIME-Version: 1.0\nContent-Type: text/html; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\n<html>\n<body>\n<p>Hi,</p>\n<p>Your Netflix account has been suspended due to a billing issue. Please <a href=\"http://netflix.com.verify-billing.com\">update your payment information</a> to reactivate your account.</p>\n<p>We're here to help if you need it.</p>\n<p>Thanks,<br>Netflix Support</p>\n</body>\n</html>"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: Coinbase <no-reply@coinbase.com>\nTo: user@example.com\nSubject: Alert: Unusual Activity on Your Crypto Wallet\nDate: Sat, 22 May 2021 16:10:22 +0200\nMessage-ID: <c247fb.24@coinbase.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\nHello,\nWe have detected unusual activity on your Coinbase account. A login attempt was made from a new IP address. If this was not you, please secure your account immediately by resetting your password: https://coinbase.com.verify-login.com\nIf you recognize this activity, you can ignore this alert.\nSincerely,\nCoinbase Security Team"
+  },
+  {
+    "label": "phishing",
+    "eml": "From: FedEx <tracking@fedex.com>\nTo: user@example.com\nSubject: FedEx: Delivery Attempt Failed - Action Needed\nDate: Mon, 18 Apr 2022 16:46:07 +0800\nMessage-ID: <707166.25@fedex.com>\nMIME-Version: 1.0\nContent-Type: text/html; charset=UTF-8\nContent-Transfer-Encoding: 7bit\n\n<html>\n<body>\n<p>Dear Customer,</p>\n<p>We attempted to deliver your package today but were unable to reach you. Please <a href=\"http://fedex.delivery.com-reschedule.com\">reschedule delivery</a> and pay the outstanding fee to receive your package.</p>\n<p>Thank you for choosing FedEx.</p>\n</body>\n</html>"
+  }
+]

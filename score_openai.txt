@@ -1,0 +1,102 @@
+benign,
+ Result: legit, 0.95
+benign,
+ Result: legit, 0.95
+benign,
+ Result: legit, 0.95
+benign,
+ Result: legit, 0.95
+benign,
+ Result: legit, 0.95
+benign,
+ Result: legit, 0.95
+benign,
+ Result: suspicious, 0.65
+benign,
+ Result: suspicious, 0.65
+benign,
+ Result: suspicious, 0.65
+benign,
+ Result: suspicious, 0.65
+benign,
+ Result: suspicious, 0.65
+benign,
+ Result: suspicious, 0.65
+benign,
+ Result: suspicious, 0.65
+benign,
+ Result: legit, 0.95
+benign,
+ Result: legit, 0.95
+benign,
+ Result: legit, 0.95
+benign,
+ Result: legit, 0.95
+benign,
+ Result: legit, 0.9
+benign,
+ Result: legit, 0.95
+benign,
+ Result: suspicious, 0.65
+benign,
+ Result: legit, 0.9
+benign,
+ Result: legit, 0.95
+benign,
+ Result: legit, 0.95
+benign,
+ Result: legit, 0.9
+phishing,
+ Result: phish, 0.9
+phishing,
+ Result: phish, 0.9
+phishing,
+ Result: phish, 0.9
+benign,
+ Result: legit, 0.95
+benign,
+ Result: legit, 0.9
+phishing,
+ Result: phish, 0.9
+phishing,
+ Result: phish, 0.9
+phishing,
+ Result: phish, 0.9
+phishing,
+ Result: suspicious, 0.65
+phishing,
+ Result: suspicious, 0.65
+phishing,
+ Result: suspicious, 0.65
+phishing,
+ Result: suspicious, 0.65
+phishing,
+ Result: phish, 0.9
+phishing,
+ Result: suspicious, 0.65
+phishing,
+ Result: suspicious, 0.65
+phishing,
+ Result: legit, 0.95
+phishing,
+ Result: legit, 0.9
+phishing,
+ Result: suspicious, 0.65
+phishing,
+ Result: phish, 0.9
+phishing,
+ Result: suspicious, 0.65
+phishing,
+ Result: phish, 0.9
+phishing,
+ Result: phish, 0.9
+phishing,
+ Result: suspicious, 0.65
+phishing,
+ Result: phish, 0.9
+phishing,
+ Result: phish, 0.9
+phishing,
+ Result: phish, 0.9
+phishing,
+ Result: suspicious, 0.65

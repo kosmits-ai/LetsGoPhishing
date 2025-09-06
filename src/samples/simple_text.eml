@@ -1,0 +1,10 @@
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Simple Text Example
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hi Bob,
+This is a simple plain text email.
+Cheers,
+Alice

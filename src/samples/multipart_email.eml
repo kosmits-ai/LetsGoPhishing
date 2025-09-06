@@ -1,0 +1,26 @@
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Multipart Email Example
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="utf-8"
+
+Hi Bob,
+This is the plain text version of the email.
+Cheers,
+Alice
+
+--===============123456789==
+Content-Type: text/html; charset="utf-8"
+
+<html>
+  <body>
+    <p>Hi <b>Bob</b>,</p>
+    <p>This is the <span style="color:green;">HTML version</span> of the email.</p>
+    <p>Cheers,<br>Alice</p>
+  </body>
+</html>
+
+--===============123456789==--

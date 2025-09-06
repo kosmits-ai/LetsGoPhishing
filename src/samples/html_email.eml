@@ -1,0 +1,13 @@
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: HTML Email Example
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html>
+  <body>
+    <p>Hi <b>Bob</b>,</p>
+    <p>This is an <span style="color:blue;">HTML email</span>.</p>
+    <p>Cheers,<br>Alice</p>
+  </body>
+</html>
